@@ -115,4 +115,3 @@ To make this proposal concrete, consider a simple yet ubiquitous use case: time-
 
 ## Further Considerations
 
-We now have a strawman convention for reusable visualization components. Yet there is far more to cover as to what should be considered "configuration" or even a "chart". Is a traditional chart typology the best choice? Consider drawing inspiration from the Grammar of Graphics (see Polychart and ggplot2); there are more modular units for composition. Even with traditional chart types, should you expose the underlying scales and axes, or encapsulate them with chart-specific representations? Should your chart support interaction and animation automatically? Should the user be able to reach into your chart and tweak some aspect of its behavior? All of these are possible using the proposed convention, so have at it! 
