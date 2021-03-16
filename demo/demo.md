@@ -111,7 +111,6 @@ You could also design your chart function to work directly with selection.each, 
 
 ## Examples
 
-To make this proposal concrete, consider a simple yet ubiquitous use case: time-series visualization. A time series is a variable that changes over time.
 
 ## Further Considerations
 
